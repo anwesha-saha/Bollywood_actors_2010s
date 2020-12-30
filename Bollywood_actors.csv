@@ -1,0 +1,118 @@
+﻿Actor_name,Film_name,Month,Year,Gross_profit,Genre
+Ayushman Khurana,Vicky Donor,4,2012,41,rom-com
+Ayushman Khurana,Nautanki Saala,4,2013,22.32,rom-com
+Ayushman Khurana,Bewakoofiyaan,3,2014,13.94,rom-com
+Ayushman Khurana,Hawaizaada,1,2015,3.53,fantasy-drama
+Ayushman Khurana,Dum Laga Ke Haisha,2,2015,30.26,romantic-drama
+Ayushman Khurana,Meri Pyaari Bindu,5,2017,9.2,romantic-drama
+Ayushman Khurana,Bareilly Ki Barfi,8,2017,34.02,rom-com
+Ayushman Khurana,Shubh Mangal Saavdhan,9,2017,41.98,comedy-drama
+Ayushman Khurana,Andhadhun,10,2018,73.37,thriller-comedy
+Ayushman Khurana,Badhaai Ho,10,2018,134.46,comedy-drama
+Ayushman Khurana,Article 15,6,2019,65.25,crime-thriller
+Ayushman Khurana,Dream Girl,9,2019,139.37,rom-com
+Ayushman Khurana,Bala,11,2019,110.97,satire-drama
+Ayushman Khurana,Shubh Mangal Zyada Saavdhan,2,2020,58.92,rom-com
+Varun Dhawan,Student Of The Year,10,2012,62.94,rom-com
+Varun Dhawan,Main Tera Hero,4,2014,53.17,romance-action
+Varun Dhawan,Humpty Sharma Ki Dulhania,7,2014,72.8,rom-com
+Varun Dhawan,Badlapur,2,2015,49.62,action-thriller
+Varun Dhawan,ABCD 2,6,2015,103.58,dance-musical
+Varun Dhawan,Dilwale,12,2015,139.97,romantic-action
+Varun Dhawan,Dishoom,7,2016,68.1,action-comedy
+Varun Dhawan,Badrinath Ki Dulhania,3,2017,114.11,romantic-drama
+Varun Dhawan,Judwaa 2,9,2017,132.39,action-comedy
+Varun Dhawan,October,4,2018,37.11,romantic-drama
+Varun Dhawan,Sui Dhaaga - Made In India,9,2018,76.1,romantic-drama
+Varun Dhawan,Kalank,4,2019,80.03,historical-romantic-drama
+Varun Dhawan,Street Dancer 3,1,2020,62.2,dance-musical
+Rajkumar Rao,Love Sex Aur Dhokha,3,2010,8.48,comedy-drama
+Rajkumar Rao,Ragini MMS,5,2011,10.7,horror-mystery
+Rajkumar Rao,Shaitan,6,2011,8.26,crime-thriller
+Rajkumar Rao,Gangs Of Wasseypur 2,8,2012,22.96,crime-thriller
+Rajkumar Rao,Chittagong,10,2012,0.35,historical-war-drama
+Rajkumar Rao,Talaash,1,2012,91.23,thriller-mystery
+Rajkumar Rao,Kai Po Che,2,2013,43.58,buddy-drama
+Rajkumar Rao,Boyss Toh Boyss Hain,7,2013,0.09,comedy-drama
+Rajkumar Rao,Shahid,10,2013,1.99,biographical-drama
+Rajkumar Rao,Queen,3,2014,61.47,comedy-drama
+Rajkumar Rao,Citylights,5,2014,6.61,thriller-drama
+Rajkumar Rao,Dolly Ki Doli,1,2015,11.24,comedy-drama
+Rajkumar Rao,Hamari Adhuri Kahani,6,2015,32.99,romantic-drama
+Rajkumar Rao,Aligarh,2,2016,2.7,biographical-drama
+Rajkumar Rao,Trapped,3,2017,2.85,thriller-drama
+Rajkumar Rao,Raabta,6,2017,21.68,romantic-action
+Rajkumar Rao,Behen Hogi Teri,6,2017,2.22,rom-com
+Rajkumar Rao,Bareilly Ki Barfi,8,2017,34.02,rom-com
+Rajkumar Rao,Newton,9,2017,22.18,comedy-drama
+Rajkumar Rao,Shaadi Mein Zaroor Aana,11,2017,15.34,romantic-drama
+Rajkumar Rao,Omerta,5,2018,3.26,crime-biography
+Rajkumar Rao,Fanney Khan,8,2018,10.3,musical-comedy
+Rajkumar Rao,Stree,8,2018,124,horror-comedy
+Rajkumar Rao,Love Sonia,9,2018,1.64,drama
+Rajkumar Rao,5 Weddings,10,2018,0.32,rom-com
+Rajkumar Rao,Ek Ladki Ko Dekha Toh Aisa Laga,2,2019,19.31,romantic-drama
+Rajkumar Rao,Judgementall Hai Kya,7,2019,33.95,Psychological thriller 
+Rajkumar Rao,Made In China,10,2019,10.37,comedy-drama
+Rajkumar Rao,Shimla Mirchi,1,2020,0.01,comedy-drama
+Tiger Shroff,Heropanti,5,2014,50.51,romantic-action
+Tiger Shroff,Baaghi,4,2016,76.05,romantic-action
+Tiger Shroff,A Flying Jatt,8,2016,30.76,action-comedy
+Tiger Shroff,Munna Micheal,7,2017,33.71,action-dance
+Tiger Shroff,Baaghi 2,3,2018,160,action-thriller
+Tiger Shroff,Student Of The Year 2,5,2019,65.7,romantic-drama
+Tiger Shroff,War,10,2019,292,action-thriller
+Tiger Shroff,Baaghi 3,3,2020,92.31,action-thriller
+Kartik Aryan,Pyaar Ka Punchnama,5,2011,12.58,comedy-drama
+Kartik Aryan,Akaash Vani,1,2013,2.24,romantic-drama
+Kartik Aryan,Kaanchi,4,2014,3.89,romantic-drama
+Kartik Aryan,Pyaar Ka Punchnama 2,10,2015,60.38,comedy-drama
+Kartik Aryan,Guest In London,7,2017,7.25,comedy-drama
+Kartik Aryan,Sonu Ke Titu Ki Sweety,2,2018,100.8,comedy-drama
+Kartik Aryan,Luka Chuppi,3,2019,88.51,rom-com
+Kartik Aryan,Pati Patni Aur Woh,12,2019,80.41,rom-com
+Kartik Aryan,Love Aaj Kal,2,2020,33.95,romantic-drama
+Ranveer Singh,Band Baaja Baaraat,12,2010,23.16,rom-com
+Ranveer Singh,Lootera,7,2013,27.86,romantic-drama
+Ranveer Singh,Kill Dil,11,2014,29.98,action-comedy
+Ranveer Singh,Ladies vs Ricky Bahl,12,2011,30.75,rom-com
+Ranveer Singh,Befikre,2,2016,60.26,rom-com
+Ranveer Singh,Gunday,2,2014,73.28,action-thriller
+Ranveer Singh,Dil Dhadakne Do,6,2015,75.05,family-drama
+Ranveer Singh,Goliyon Ki Raasleela Ram - Leela,11,2013,112.97,romantic-drama
+Ranveer Singh,Gully Boy,2,2019,134.24,musical-drama
+Ranveer Singh, Bajirao Mastani,12,2015,183.75,historical-romantic-drama
+Ranveer Singh,Simmba,12,2018,239.8,action-drama
+Ranveer Singh,Padmaavat,1,2018,282.28,historical-romantic-drama
+Arjun Kapoor,Ishaqzaade,5,2012,46,romantic-action
+Arjun Kapoor,Aurangzeb,5,2013,22.74,action-thriller
+Arjun Kapoor,Gunday,2,2014,73.28,action-thriller
+Arjun Kapoor,2 States,4,2014,101.86,rom-com
+Arjun Kapoor,Finding Fanny,9,2014,28.23,satire-comedy
+Arjun Kapoor,Tevar,1,2015,35.55,action-drama
+Arjun Kapoor,Ki & Ka,4,2016,51.86,rom-com
+Arjun Kapoor,Half Girlfriend,5,2017,52.29,romantic-drama
+Arjun Kapoor,Mubarakan,7,2017,54.76,rom-com
+Arjun Kapoor,Namaste England,10,2018,7.29,rom-com
+Arjun Kapoor,India's Most Wanted,5,2019,10.62,action-thriller
+Arjun Kapoor,Panipat,12,2019,34.38,historical-war-drama
+Siddharth Malhotra,Jabariya Jodi,8,2019,16.08,action-comedy
+Siddharth Malhotra,Aiyaary,2,2018,17.51,action-thriller
+Siddharth Malhotra,Gentleman - Sundar Susheel Risky,8,2017,17.72,action-comedy
+Siddharth Malhotra,Ittefaq,11,2017,27.52,thriller-mystery
+Siddharth Malhotra,Baar Baar Dekho,9,2016,30.62,romantic-drama
+Siddharth Malhotra,Hasee Toh Phasee,2,2014,36.56,rom-com
+Siddharth Malhotra,Marjaavaan,11,2019,45.57,romantic-action
+Siddharth Malhotra,Student Of The Year,10,2012,62.94,rom-com
+Siddharth Malhotra,Kapoor & Sons,3,2016,69.37,family-drama
+Siddharth Malhotra,Brothers,8,2015,70.65,action-drama
+Siddharth Malhotra,Ek Villain,6,2014,97.51,action-thriller
+Sushant Singh Rajput,Kai Po Che,2,2013,43.58,buddy-drama
+Sushant Singh Rajput,Shuddh Desi Romance,9,2013,46.26,rom-com
+Sushant Singh Rajput,PK,12,2014,337.72,comedy-fantasy
+Sushant Singh Rajput,Detective Byomkesh Bakshy,4,2015,26.21,thriller-mystery
+Sushant Singh Rajput,M.S. Dhoni - The Untold Story,9,2016,119.09,biographical-sports
+Sushant Singh Rajput,Raabta,6,2017,21.68,romantic-action
+Sushant Singh Rajput,Kedarnath,12,2018,70,romantic-drama
+Sushant Singh Rajput,Sonchiriya,3,2019,5.63,action-drama
+Sushant Singh Rajput,Chhichhore,9,2019,147.32,comedy-drama
